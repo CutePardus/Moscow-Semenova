@@ -1,7 +1,5 @@
-print('4')
-print('44')
 def my_superfunction():
-    print('loool')
+    print('Everything id working')
 
 
 def main():
