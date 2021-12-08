@@ -1,7 +1,6 @@
 def my_superfunction():
-    print('noo')
-    print('conflict')
-    print('more conflict')
+    aa = 3
+    print(aa)
 
 
 def main():
