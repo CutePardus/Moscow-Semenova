@@ -1,6 +1,7 @@
 def my_superfunction():
     print('noo')
     print('conflict')
+    print('more conflict')
 
 
 def main():
