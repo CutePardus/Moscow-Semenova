@@ -1,6 +1,5 @@
 def my_superfunction():
-    aa = 3
-    print(aa)
+    print('Everything id working')
 
 
 def main():
