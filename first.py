@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('loool')
+    print('looollo.l')
 
 
 def main():
